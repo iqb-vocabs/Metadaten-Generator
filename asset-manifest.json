@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/form-generator/static/css/main.e3437bfb.css",
-    "main.js": "/form-generator/static/js/main.6178c064.js",
-    "static/js/787.a05f95f4.chunk.js": "/form-generator/static/js/787.a05f95f4.chunk.js",
-    "index.html": "/form-generator/index.html",
-    "main.e3437bfb.css.map": "/form-generator/static/css/main.e3437bfb.css.map",
-    "main.6178c064.js.map": "/form-generator/static/js/main.6178c064.js.map",
-    "787.a05f95f4.chunk.js.map": "/form-generator/static/js/787.a05f95f4.chunk.js.map"
+    "main.css": "/Metadaten-Generator/static/css/main.e3437bfb.css",
+    "main.js": "/Metadaten-Generator/static/js/main.ea2ead1f.js",
+    "static/js/787.a05f95f4.chunk.js": "/Metadaten-Generator/static/js/787.a05f95f4.chunk.js",
+    "index.html": "/Metadaten-Generator/index.html",
+    "main.e3437bfb.css.map": "/Metadaten-Generator/static/css/main.e3437bfb.css.map",
+    "main.ea2ead1f.js.map": "/Metadaten-Generator/static/js/main.ea2ead1f.js.map",
+    "787.a05f95f4.chunk.js.map": "/Metadaten-Generator/static/js/787.a05f95f4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e3437bfb.css",
-    "static/js/main.6178c064.js"
+    "static/js/main.ea2ead1f.js"
   ]
 }
